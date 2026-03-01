@@ -1,0 +1,3 @@
+Hello My name is Amit kumar singh
+And I am your Generative AI Instructor
+We are looking over the functionality of shutil
